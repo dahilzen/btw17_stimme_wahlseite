@@ -38,7 +38,6 @@ div>img {
 }
 @media (min-width: 700px) {
   #wahlkreise {
-    display: block;
     margin-top: 10px;
   }
 }
